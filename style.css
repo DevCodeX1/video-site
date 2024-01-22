@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/wallpapersden.com_glowing-space-4k-portal_3072x2048.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.para{
+    display: flex;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    
+}
+
+.para h1{
+    border: 2px solid;
+    border-radius: 15px;
+    width: 40%;
+    padding-left: 50px;
+    background: black;
+}
+
+button{
+    color: rgb(30, 50, 143);
+    background: none;
+    border: 1px solid;
+    border-radius: 10px;
+    
+}
+
+button:hover{
+    background: yellowgreen;
+}
